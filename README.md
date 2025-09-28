@@ -66,10 +66,13 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abenay&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   
-
 </p>
 
-  ![snake gif](https://github.com/abenay/abenay/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dracula)" srcset="https://raw.githubusercontent.com/MayarSantos/MayaSantor/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dracula)" srcset="https://raw.githubusercontent.com/MayarSantos/MayaSantor/output/github-contribution-grid-snake.svg">
+</picture>
 
+![Snake animation](https://github.com/MayaSantor/MayaSantor/blob/output/github-contribution-grid-snake.svg)
 
 
