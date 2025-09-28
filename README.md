@@ -69,10 +69,10 @@
 </p>
 
   <picture>
-  <source media="(prefers-color-scheme: dracula)" srcset="https://raw.githubusercontent.com/Abenay.ferreira/Abenay.ferreira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dracula)" srcset="https://raw.githubusercontent.com/Abenay.ferreira/Abenay.ferreira/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dracula)" srcset="https://raw.githubusercontent.com/Abenay/Abenay/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dracula)" srcset="https://raw.githubusercontent.com/Abenay/Abenay/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Snake animation](https://github.com/Abenay.ferreira/Abenay.ferreira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Abenay/Abenay/blob/output/github-contribution-grid-snake.svg)
 
 
